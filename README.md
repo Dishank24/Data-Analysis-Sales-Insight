@@ -9,6 +9,6 @@ Tasks performed-
 3. Data Wrangling
 4. Data Visualization.
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer. 
+SQL database dump is in db_dump.sql file above. Download @db_dump.sql file to your local computer. 
 
 Data Analysis Using SQL
