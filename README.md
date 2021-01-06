@@ -1,7 +1,7 @@
 # Data-Analysis-Sales-Insight
-This is a complete real-world Data Analysis Project. 
+It is a complete real-world Data Analysis Project. 
 
-MySQL was used to collect the data and perform some initial analysis. Then linked the MySQL Database to PowerBi and performed ETL using PowerBi's Power Query feature. After ETL, I made some custom formulaes to use them in my report. Finally, I built the Dashboard/Report using different charts, cards and slicers. 
+I used MySQL to collect the data and perform some initial analysis. Then linked the MySQL Database to PowerBi and performed ETL using PowerBi's Power Query feature. After ETL, I made some custom formulaes to use them in my report. Finally, I built the Dashboard/Report using different charts, cards and slicers. 
 
 ## **Tasks performed**
 1. Data Collection
